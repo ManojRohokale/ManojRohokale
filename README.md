@@ -1,8 +1,3 @@
-<!-- Futuristic Banner -->
-<p align="center">
-  <img src="https://i.gifer.com/origin/71/712f6e29fc9f7ef6e5a94a541f6278d8.gif" width="800"/>
-</p>
-
 # 👨‍💻 Hey, I’m <span style="color:#00FFFF">Manoj Rohokale</span> 🌌  
 
 🎓 Specializing in **B.E. Artificial Intelligence & Data Science**  
