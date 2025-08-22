@@ -42,19 +42,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManojRohokale&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojRohokale&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojRohokale&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🤝 Connect with Me  
 
 <p align="center">
