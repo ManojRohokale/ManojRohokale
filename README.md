@@ -5,19 +5,9 @@
 
 # 👨‍💻 Hey, I’m <span style="color:#00FFFF">Manoj Rohokale</span> 🌌  
 
-🎓 Final-year **B.E. in Artificial Intelligence & Data Science**  
+🎓 Specializing in **B.E. Artificial Intelligence & Data Science**  
 💻 Passionate about **MERN Stack | AWS Cloud | Data Analytics**  
 🚀 Dreaming Big | Building Smarter | Scaling Faster  
-
----
-
-## ⚡ About Me  
-
-✨ **Currently:** Full Stack Developer Intern @ *Oasis Infobyte*  
-☁️ **Certified AWS Practitioner** | Exploring **DevOps & Cloud**  
-📊 Completed **GenAI-Powered Data Analytics Simulation @ Tata iQ**  
-🔭 Love solving **real-world problems** with data-driven & scalable solutions  
-🏋️ Fitness | 📚 Reading | 🌍 Geopolitics | 🎖️ Army Enthusiast  
 
 ---
 
