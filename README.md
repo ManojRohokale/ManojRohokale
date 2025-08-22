@@ -1,73 +1,80 @@
-# 👋 Hi, I'm Manoj Rohokale  
+<!-- Futuristic Banner -->
+<p align="center">
+  <img src="https://i.gifer.com/origin/71/712f6e29fc9f7ef6e5a94a541f6278d8.gif" width="800"/>
+</p>
 
-🎓 Final-year B.E. student in **Artificial Intelligence & Data Science** at Dr. D. Y. Patil Institute of Technology (CGPA: 7.71/10)  
-💻 Skilled in **MERN Stack, AWS Cloud, and Data Analytics**  
-🚀 Passionate about solving real-world problems with scalable, data-driven, and cloud-powered solutions  
+# 👨‍💻 Hey, I’m <span style="color:#00FFFF">Manoj Rohokale</span> 🌌  
 
----
-
-## 🧑‍💻 About Me  
-- 🔭 Currently: **Full Stack Web Developer Intern @ Oasis Infobyte**  
-- 🌱 Learning **DevOps & AWS Cloud** to strengthen deployment and automation expertise  
-- 📊 Completed **GenAI-Powered Data Analytics Job Simulation @ Tata iQ** (AI Transformation Consultant role)  
-- ☁️ Certified in **AWS Cloud Practitioner Essentials**  
-- 👨‍💻 Hands-on with **MERN Stack, Data Visualization, SQL, and Power BI**  
-- ⚡ Interests: **Army | Geopolitics | Technology | Reading Books | Fitness**  
+🎓 Final-year **B.E. in Artificial Intelligence & Data Science**  
+💻 Passionate about **MERN Stack | AWS Cloud | Data Analytics**  
+🚀 Dreaming Big | Building Smarter | Scaling Faster  
 
 ---
 
-## 🛠️ Skills  
+## ⚡ About Me  
 
-**Languages & Programming**  
-`C++` `Python` `JavaScript`  
-
-**Web Development (MERN)**  
-`MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `Socket.io` `Bootstrap`  
-
-**Cloud & DevOps**  
-`AWS` `Docker` `CI/CD`  
-
-**Data Analytics & Visualization**  
-`SQL` `Power BI` `Excel` `Data Analysis` `AI/ML Basics`  
+✨ **Currently:** Full Stack Developer Intern @ *Oasis Infobyte*  
+☁️ **Certified AWS Practitioner** | Exploring **DevOps & Cloud**  
+📊 Completed **GenAI-Powered Data Analytics Simulation @ Tata iQ**  
+🔭 Love solving **real-world problems** with data-driven & scalable solutions  
+🏋️ Fitness | 📚 Reading | 🌍 Geopolitics | 🎖️ Army Enthusiast  
 
 ---
 
-## 📂 Featured Projects  
+## 🛠️ Tech Arsenal 🚀  
 
-### 🔹 [Stock Trading Platform](https://github.com/ManojRohokale/stock-trading-platform.git)  
-- Built with **MERN Stack** for real-time stock visualization, authentication, and portfolio management.  
-- Features include buy/sell transactions, dynamic charts, and role-based dashboards.  
-
-### 🔹 [Ola Data Analytics SQL Project](https://github.com/ManojRohokale/Ola-Data-Analytics-SQL-Project.git)  
-- Developed **SQL queries + Power BI dashboards** to analyze Ola booking data.  
-- Identified trends in revenue, cancellations, and peak demand with actionable insights.  
-
-### 🔹 [URL Shortener App](https://github.com/ManojRohokale/url-shortener-app.git)  
-- Internship project using **MERN Stack** to shorten long URLs into unique short links.  
-- Designed REST APIs and responsive React frontend for smooth user experience.  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,bootstrap,aws,docker,git,github,linux,sql" />
+</p>
 
 ---
 
-## 📜 Certifications  
-- ☁️ **AWS Cloud Practitioner Essentials** – Validated AWS fundamentals and cloud literacy.  
-- 📊 **GenAI Powered Data Analytics (Tata iQ)** – Completed job simulation in AI-driven data analytics & strategy.  
+## 🔥 Featured Projects  
+
+### 📈 [Stock Trading Platform](https://github.com/ManojRohokale/stock-trading-platform.git)  
+⚡ Real-time stock visualization | MERN Stack | Role-based Dashboards  
+
+### 🚖 [Ola Data Analytics SQL Project](https://github.com/ManojRohokale/Ola-Data-Analytics-SQL-Project.git)  
+📊 SQL + Power BI Dashboards | Insights on revenue, cancellations & demand  
+
+### 🔗 [URL Shortener App](https://github.com/ManojRohokale/url-shortener-app.git)  
+🖇️ Shortened links with REST APIs & responsive React frontend  
 
 ---
 
-## 📈 GitHub Stats  
+## 📜 Certifications 🏅  
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojRohokale&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojRohokale&layout=compact&theme=radical)  
-
----
-
-## 🌍 Connect with Me  
-
-- 📫 Email: [manojrohokale221@gmail.com](mailto:manojrohokale221@gmail.com)  
-- 📱 Phone: [+91 7385024281](tel:+917385024281)  
-- 💼 LinkedIn: [linkedin.com/in/manoj-rohokale](https://www.linkedin.com/in/manoj-rohokale/)  
-- 🖥️ GitHub: [github.com/ManojRohokale](https://github.com/ManojRohokale)  
+- ☁️ **AWS Cloud Practitioner Essentials**  
+- 📊 **GenAI Data Analytics (Tata iQ)**  
 
 ---
 
-⭐️ From [Manoj Rohokale](https://github.com/ManojRohokale)  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojRohokale&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojRohokale&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojRohokale&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="mailto:manojrohokale221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/manoj-rohokale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ManojRohokale"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <a href="tel:+917385024281"><img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.gifer.com/3d12.gif" width="300"/>
+</p>
+
+⭐️ From [Manoj Rohokale](https://github.com/ManojRohokale)
