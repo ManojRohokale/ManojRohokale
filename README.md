@@ -21,9 +21,7 @@
 
 ### 🚖 [Ola Data Analytics SQL Project](https://github.com/ManojRohokale/Ola-Data-Analytics-SQL-Project.git)  
 📊 SQL + Power BI Dashboards | Insights on revenue, cancellations & demand  
-
-### 🔗 [URL Shortener App](https://github.com/ManojRohokale/url-shortener-app.git)  
-🖇️ Shortened links with REST APIs & responsive React frontend    
+ 
 
 ---
 
